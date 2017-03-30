@@ -2,7 +2,7 @@
 <widget id="com.myapp.mobile" version="4.19" xmlns="http://www.w3.org/ns/widgets">
 	<name>Repense sua Lavadora - Panasonic</name>
 	<description>A Fernanda Lima sabe tudo sobre a lavadora de roupas dela! E agora é sua vez de saber um pouco mais sobre as Lavadoras Panasonic!</description>
-	<author email="contato@rtpublicity.com.br" href="http://rtpublicity.com.br/sites/panasonic/ua7">Repense sua Lavadora - Panasonic</author>
+	<author email="contato@rtpublicity.com.br" href="http://rtpublicity.com.br/sites/panasonic/p3-ipad">Repense sua Lavadora - Panasonic</author>
 	<preference name="phonegap-version" value="cli-6.5.0" />
 	<preference name="permissions" value="none" />
 	<preference name="orientation" value="landscape" />
