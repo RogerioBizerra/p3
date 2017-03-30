@@ -35,6 +35,11 @@ button{
     border: none;
     outline: none;
 }
+.toque-aqui {
+    text-align: center;
+    position: relative;
+    top: 100px
+}
 .tela-1 {
     background-image: url(../images/background-geral.jpg);
     background-repeat: no-repeat;
