@@ -38,7 +38,8 @@ button{
 .toque-aqui {
     text-align: center;
     position: relative;
-    top: 100px
+    top: 100px;
+    z-index: 99999;
 }
 .tela-1 {
     background-image: url(../images/background-geral.jpg);
