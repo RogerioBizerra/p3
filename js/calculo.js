@@ -35,6 +35,7 @@ $(function() {
 		
 		$(".calculo-1").hide();
 		$(".calculo-2").hide();
+		$(".voltar").hide();
 		$(".calculo-3").fadeOut(400);
 		$(".calculo-4").fadeIn(2000);
 
