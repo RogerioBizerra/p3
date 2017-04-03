@@ -224,13 +224,13 @@ h2.title {
 	text-indent: -9999px;
 	cursor: pointer;
 	width: 100px;
-	height: 100px;
+	height: 90px;
 	text-align: center;
 	background: url(../images/buttons.png) no-repeat;
 	position: relative;
 }
 .dec{
-	background-position: 0 -100px;
+	background-position: 0 -108px;
 	float: left;
 	left: 20%;
 }
